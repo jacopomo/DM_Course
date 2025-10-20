@@ -1,11 +1,11 @@
-# ML_course
-A repository that follows the "Machine Learning" course at UniPi
+# DM_course
+A repository that follows the "Data Mining: Fundamentals" course at UniPi
 
 ## Setup
 Clone the repository:
 ```bash
 git clone <repo-url>
-cd ML_course
+cd DM_course
 ```
 ## Install dependencies 
 ```bash
