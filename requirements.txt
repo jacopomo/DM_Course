@@ -1,0 +1,6 @@
+jupyterlab
+notebook
+nbdime
+numpy
+pandas
+matplotlib
