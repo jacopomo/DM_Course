@@ -4,3 +4,4 @@ nbdime
 numpy
 pandas
 matplotlib
+ipywidgets
