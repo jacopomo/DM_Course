@@ -1,5 +1,7 @@
 # DM_course
-A repository that follows the "Data Mining: Fundamentals" course at UniPi
+A repository that follows the "Data Mining: Fundamentals" course at UniPi  
+
+[Notebook con dispense](https://colab.research.google.com/drive/1QaF05rTgphyHTkrDmyyS4xDwaPfj0fBd?usp=sharing)
 
 ## Setup
 Clone the repository:
